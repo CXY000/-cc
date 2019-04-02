@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/swiper/swiper",
+    "pages/index/index",
+    "pages/recognition/recognition",
+    "pages/show/show",
+    
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "让AR无处不在",
+    "navigationBarTextStyle": "black"
+  }
+}
